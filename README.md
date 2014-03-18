@@ -9,3 +9,7 @@ iOS Frameworks
  - Specta
  - Expecta
  - Kiwi
+ - OCMockito
+ - OCHamcrest
+
+
