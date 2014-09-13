@@ -1,3 +1,6 @@
+A list of interesting stuff related to BDD/TDD. Pull requests are welcomed! 
+
+
 Articles
 =============
  - [objc.io issue #15](http://www.objc.io/issue-15/)
