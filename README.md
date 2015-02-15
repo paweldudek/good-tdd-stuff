@@ -8,6 +8,7 @@ Articles
  - [An article that dates back to roots of BDD](http://dannorth.net/introducing-bdd/)
  - [You won't believe how old TDD is](http://arialdomartini.wordpress.com/2012/07/20/you-wont-believe-how-old-tdd-is/)
  - [Context vs Describe](http://lmws.net/describe-vs-context-in-rspec)
+ - [Write Tests Now](http://paytonrules.com/software-development/2015/02/13/get-started-today.html)
 
 Talks
 =============
