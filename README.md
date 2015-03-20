@@ -21,6 +21,10 @@ Webinars, screencasts
  - [Intro to ObjC TDD](https://www.youtube.com/watch?v=WADaMF79Vts)
  - [BDD with AppCode](https://www.youtube.com/watch?v=LXBNl-6FK1s)
  - [AppCode for better TDD](https://www.youtube.com/watch?v=GtKiLWIRaqQ)
+
+Blogs
+=============
+- [Quality Coding](http://qualitycoding.org)
  
 Frameworks
 =============
