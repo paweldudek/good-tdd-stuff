@@ -51,5 +51,14 @@ Frameworks
 ### Swift BDD frameworks
  - [Quick](https://github.com/Quick/Quick)
  - [Sleipnir](https://github.com/railsware/Sleipnir)
+ - [Spectre](https://github.com/kylef/Spectre)
+
+### Swift mocking frameworks
+
+- [SwiftMock](https://github.com/mflint/SwiftMock)
+
+### Swift matchers frameworks
+- [SwiftHamcrest](https://github.com/nschum/SwiftHamcrest)
+- [Nimble](https://github.com/Quick/Nimble)
 
 
