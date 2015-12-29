@@ -16,6 +16,8 @@ Articles
 
 Talks
 =============
+ - [How to Stop Hating Your Tests](https://vimeo.com/145917204) (seriously watch this, some of the most important knowledge about testing in just 45 minutes)
+ - [Breaking up (with) your test suite](https://www.youtube.com/watch?v=9_3RsSvgRd4)
  - [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
  - [Test Driven Development for iOS](https://www.youtube.com/watch?v=Jzlz3Bx-NzM)
  - [Find abstraction level for your tests](http://m.ustream.tv/recorded/46744750)
