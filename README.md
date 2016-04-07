@@ -31,6 +31,11 @@ Webinars, screencasts
 Blogs
 =============
 - [Quality Coding](http://qualitycoding.org)
+- [iOS Unit Testing](http://iosunittesting.com)
+
+Code Quality
+=============
+- [Code Quality ABC](https://swifting.io/blog/2016/03/21/10-is-christmas-earlier-this-year-code-quality-analyser-abc/)
  
 Frameworks
 =============
@@ -59,6 +64,7 @@ Frameworks
 
 - [SwiftMock](https://github.com/mflint/SwiftMock)
 - [MockFive](https://github.com/DeliciousRaspberryPi/MockFive)
+- [Dobby](https://github.com/rheinfabrik/Dobby)
 
 ### Swift matchers frameworks
 - [SwiftHamcrest](https://github.com/nschum/SwiftHamcrest)
