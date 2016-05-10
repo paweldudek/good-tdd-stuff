@@ -66,6 +66,7 @@ Frameworks
 - [SwiftMock](https://github.com/mflint/SwiftMock)
 - [MockFive](https://github.com/DeliciousRaspberryPi/MockFive)
 - [Dobby](https://github.com/rheinfabrik/Dobby)
+- [MockItYourself](https://github.com/plain-vanilla-games/MockItYourself)
 
 ### Swift matchers frameworks
 - [SwiftHamcrest](https://github.com/nschum/SwiftHamcrest)
