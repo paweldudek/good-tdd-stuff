@@ -14,6 +14,7 @@ Articles
  - [My favorite way to TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles.html)
  - [Test Double - Wiki on Testing](https://github.com/testdouble/contributing-tests/wiki)
  - [Better Specs](http://betterspecs.org)
+ - [Failures of "Intro to TDD"](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html) (must read if you're beginning your journey with TDD)
 
 Talks
 =============
@@ -22,6 +23,7 @@ Talks
  - [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
  - [Test Driven Development for iOS](https://www.youtube.com/watch?v=Jzlz3Bx-NzM)
  - [Find abstraction level for your tests](http://m.ustream.tv/recorded/46744750)
+ - [Happier TDD with testdouble.js](http://blog.testdouble.com/posts/2016-06-05-happier-tdd-with-testdouble-js.html) (not iOS specific, but still interesting, especially the reasons why it's worth TDDing your apps. Spoiler: not code coverage)
  
 Webinars, screencasts
 =============
